@@ -1,0 +1,14 @@
+.main {
+  background-color: green;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  border-color: black;
+  border: 2px solid;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.card {
+  background-color: aqua;
+  color: black;
+}
